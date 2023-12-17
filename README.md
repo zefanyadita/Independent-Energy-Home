@@ -27,5 +27,5 @@
 ![My Image](led.jpeg)
 
 ### The Prototype
-![My Image](prototype.jpeg)
+![My Image](prototypr.jpeg)
 
