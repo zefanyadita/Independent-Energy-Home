@@ -1,5 +1,7 @@
 # Independent-Energy-Home
 
+![My Image](Gambar1.png)
+
 ### Project 
 - Designing an Energy Independent House equipped with solar panels as a solution for saving electricity ( renewable energy)
 - The application of solar panel technology on a household scale, especially in energy independent home prototypes, is a significant step in changing the paradigm of energy use. By utilizing sunlight as the main energy source, energy independent homes can meet daily electricity needs without needing to load the public electricity grid.
@@ -27,6 +29,5 @@
 ![My Image](led.jpeg)
 
 ### The Prototype
-![My Image](Gambar1.jpeg)
 ![My Image](prototypr.jpeg)
 
