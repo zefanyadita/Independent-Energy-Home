@@ -1,5 +1,4 @@
 # Independent-Energy-Home
-# Automatic-Control-Light-Intensity-using-Fuzzy-Logic
 
 ### Project 
 - Designing an Energy Independent House equipped with solar panels as a solution for saving electricity ( renewable energy)
