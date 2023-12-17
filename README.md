@@ -21,13 +21,11 @@
 - Solar Panel
   
 ### The Electrical Schematic Circuit on PCB
-![My Image](result.jpeg)
+![My Image](circuit.jpeg)
 
 ### The Electrical Circuit OF Lights
-![My Image](result.jpeg)
+![My Image](led.jpeg)
 
 ### The Prototype
-![My Image](result.jpeg)
+![My Image](prototype.jpeg)
 
-### Result
-![My Image](result.jpeg)
